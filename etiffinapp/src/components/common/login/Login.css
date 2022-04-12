@@ -1,0 +1,36 @@
+
+@media screen and (max-width : 600px) {
+    
+}
+
+#maindiv{
+    color: white;
+    background-color: black;
+    margin: 10% auto;
+    width: 35%;
+    justify-content: center;
+    border: 2px solid blue;
+    box-shadow: 10px 10px 10px rgb(78, 46, 46);
+    border-radius: 5%;
+    font-size: 22px;
+}
+
+table{
+    margin: 10% auto;
+}
+
+td{
+    text-align: center;
+}
+
+#remb{
+    font-size:px;
+}
+
+h1{
+    color: white;
+}
+
+span{
+    color: red;
+}
